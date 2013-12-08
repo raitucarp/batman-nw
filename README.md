@@ -49,6 +49,8 @@ from NodeWebkit root directory you can
 
 Your project dir can be different from your app name in package.json. That's why first and second parameter can be different.
 
+Now you can look at release/your-app-name folder. You can run the next step describe [here](https://github.com/rogerwang/node-webkit/wiki/How-to-package-and-distribute-your-apps) (Enigma Virtual Box section)
+
 # But, what about run app when development? #
 
 You can run it via command line:
