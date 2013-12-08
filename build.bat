@@ -7,4 +7,4 @@ xcopy tools\source\*.* release\%1  /Y
 cd release/%1 && copy /b nw.exe+%2.nw %2.exe /Y
 del %2.nw
 del nw.exe
-cd ..
+cd ../..
