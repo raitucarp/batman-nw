@@ -10,6 +10,7 @@ Batman-nw is bat script for build node-webkit app. This is an alternative for St
 # Restructure Folder #
 
 - Extract your node webkit under tools\source directory. And should like this:
+
 		E:\NodeWebkit\tools\source\nw.exe
 		E:\NodeWebkit\tools\source\ffmpegsumo.dll
 		E:\NodeWebkit\tools\source\icudt.dll
