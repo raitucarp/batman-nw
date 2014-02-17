@@ -8,3 +8,4 @@ cd release/%1 && copy /b nw.exe+%2.nw %2.exe /Y
 del %2.nw
 del nw.exe
 cd ../..
+upx release/%1/%2.exe
